@@ -1,9 +1,11 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=135&amp;color=0%3A0EA5E9%2C50%3A8B5CF6%2C100%3AEC4899&amp;text=Funt11&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=55" alt="Funt11" />
+  <img src="./assets/globe.gif"
+       width="160"
+       alt="Вращающийся неоновый глобус" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=2800&amp;pause=1400&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=48&amp;lines=Go+backend+development%3BUnity+game+development" alt="Go backend development · Unity game development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=1400&color=00DFFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Daniil;Go+Backend+Developer" alt="Hi, I'm Daniil · Go Backend Developer"/>
 </p>
 
 ### 🛠 Tech Stack
@@ -25,6 +27,13 @@
     </td>
   </tr>
   <tr>
+    <td width="165"><strong>Version Control</strong></td>
+    <td>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252525?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="165"><strong>Game Development</strong></td>
     <td>
       <img alt="Unity" src="https://img.shields.io/badge/Unity-252525?style=for-the-badge&amp;logo=unity&amp;logoColor=white" />
@@ -32,13 +41,6 @@
       <br />
       <img alt="Substance Painter" src="https://img.shields.io/badge/Substance%20Painter-487A39?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDMyIDI0Ij48dGV4dCB4PSIxNiIgeT0iMTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE5IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPlNwPC90ZXh0Pjwvc3ZnPg%3D%3D&amp;logoColor=white" />
       <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-1676D2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDMyIDI0Ij48dGV4dCB4PSIxNiIgeT0iMTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjE5IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPlBzPC90ZXh0Pjwvc3ZnPg%3D%3D&amp;logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="165"><strong>Version Control</strong></td>
-    <td>
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252525?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
     </td>
   </tr>
 </table>
