@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="./assets/globe.gif"
-       width="160"
-       alt="Вращающийся неоновый глобус" />
+  <img src="./settings.gif" width="256" />
 </p>
 
 <p align="center">
