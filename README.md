@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="./settings.gif" width="200" height="200" />
-</p>
+  <img src="./settings.gif" width="180" height="180" />
 
-<p align="center">
+  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=2800&pause=1400&color=00DFFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Daniil;Go+Backend+Developer" alt="Hi, I'm Daniil · Go Backend Developer"/>
 </p>
 
