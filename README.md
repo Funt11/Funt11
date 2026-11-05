@@ -45,16 +45,6 @@
 <h3>✉️ Contact</h3>
 
 <p>
-  <a href="https://t.me/mirai242">
-    <img
-      src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"
-      alt="Write in telegram"
-    />
-  </a>
-  <a href="mailto:crept-cape-drizzly@duck.com">
-    <img
-      src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white"
-      alt="Write on email"
-    />
-  </a>
+  <a href="https://t.me/mirai242"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Message me on Telegram" /></a>
+  <a href="mailto:crept-cape-drizzly@duck.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="Send me an email" /></a>
 </p>
